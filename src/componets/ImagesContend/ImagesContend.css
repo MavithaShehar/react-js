@@ -1,0 +1,16 @@
+.imgcontent {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .imgcontent  img {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+  }
+  
